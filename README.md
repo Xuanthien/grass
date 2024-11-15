@@ -1,5 +1,5 @@
 # BOT GRASS AUTO FARMING
-- https://t.me/AirdropFamilyIDN
+-  xuanthien airdrop
 # Update Grass Python
 # Register
 - https://app.getgrass.io/register/?referralCode=0oZ5gx00FywA8zg
@@ -12,7 +12,7 @@
 # Requirements
 
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/grass.git
+git clone https://github.com/Xuanthien/grass.git
 ```
 ```
 cd grass
